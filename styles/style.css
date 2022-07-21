@@ -202,6 +202,7 @@
 
 .feynman__link {
   position: absolute;
+  text-decoration: none;
   top: 50%;
   right: 48px;
   line-height: 51px;
