@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../root/root.css);
-@import url(../root/__links/root__links.css);
+@import url(../elements/links/links.css);
+@import url(../elements/links/on/links_on_hover.css);
 @import url(../elements/logo/logo.css);
 @import url(../rotation/rotation.css);
 @import url(../elements/logo/_place/logo_place_header.css);

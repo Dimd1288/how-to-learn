@@ -1,8 +1,0 @@
-.root__links{
-  opacity: 1;
-  transition: opacity .3s linear;
- }
-
- .root__links:hover{
-   opacity: .5;
- }
