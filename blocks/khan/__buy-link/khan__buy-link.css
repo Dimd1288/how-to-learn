@@ -4,7 +4,6 @@
   font-weight: normal;
   text-decoration: none;
   color:#2f80ed;
-  position: absolute;
-  left:620px;
   margin-left: 48px;
+  align-self: flex-start;
 }

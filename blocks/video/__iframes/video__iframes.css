@@ -2,7 +2,6 @@
   display: flex;
   width: 1050px;
   justify-content: space-between;
-  position: absolute;
-  bottom: -50px;
-  z-index: 1;
+  transform: translateY(50px);
+  margin: 0 auto;
 }
