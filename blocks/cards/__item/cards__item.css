@@ -1,13 +1,4 @@
 .cards__item {
-  width: 240px;
-
-  padding: 60px 50px 0 50px;
-}
-
-.cards__item:nth-child(3n) {
-  padding-right: 0;
-}
-
-.cards__item:nth-child(3n+1) {
-  padding-left: 0;
+  max-width: 240px;
+  padding: 60px 0 0 0;
 }
